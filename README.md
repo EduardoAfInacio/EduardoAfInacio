@@ -1,28 +1,21 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
-
 <p align="left">My name is Eduardo. I'm a computer engineer.</p>
-
-###
 
 <h2 align="left">About me</h2>
 
-###
-
-<p align="left">✨ Creating bugs since 2021<br>🎯 Goals: Be the best at what i do.</p>
-
-###
+<p align="left">
+  ✨ Creating bugs since 2021<br>
+  🎯 Goals: Be the best at what i do.
+</p>
 
 <h2 align="left">I code with</h2>
 
-###
-
 <div align="left">
   <!-- Backend Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" />
   <img width="12" />
@@ -34,9 +27,9 @@
   <img width="12" />
 
   <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
@@ -70,4 +63,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="aws logo" />
 </div>
-###
