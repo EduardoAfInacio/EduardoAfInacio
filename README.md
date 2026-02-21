@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Eduardo. I'm a student and software engineer.</p>
+<p align="left">My name is Eduardo. I'm a computer engineer.</p>
 
 ###
 
